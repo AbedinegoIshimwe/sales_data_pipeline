@@ -1,0 +1,402 @@
+transaction_id,customer_id,product_category,product,price,quantity,payment_method,is_completed,transaction_date
+TX00001,C058,Fertilizer,DAP Fertilizer,3500,5,Card,True,2026-01-08
+TX00002,C008,Fertilizer,Urea Fertilizer,3200,7,M-Pesa,True,2026-01-02
+TX00003,C144,Seeds,Vegetable Seeds,250,10,Card,False,2026-01-01
+TX00004,C208,Seeds,Bean Seeds,380,10,M-Pesa,True,2026-01-09
+TX00005,C056,Animal Feed,Layers Mash,2600,5,Cash,True,2026-01-05
+TX00006,C217, fertilizer ,CAN Fertilizer,2800,2,Cash,True,2026-01-12
+TX00007,C032,Fertilizer,Urea Fertilizer,3200,8,Bank Transfer,True,2026-01-18
+TX00008,C221,Farm Tools,Wheelbarrow,6500,10,Cash,True,2026-01-29
+TX00009,C075,Fertilizer,DAP Fertilizer,3500,4,M-Pesa,True,2026-01-25
+TX00010,C163,Fertilizer,CAN Fertilizer,2800,5,Cash,True,2026-01-15
+TX00011,C069,FERTILIZER,Panga,900,4,M-Pesa,True,2026-01-22
+TX00012,C070,Seeds,Maize Seeds,450,8,Card,True,2026-01-13
+TX00013,C081,Fertilizer,DAP Fertilizer,3500,1,Bank Transfer,True,2026-01-26
+TX00014,C184,Fertilizer,DAP Fertilizer,3500,10,Cash,True,2026-01-29
+TX00015,C068,Animal Feed,Layers Mash,2600,8,Card,True,2026-01-05
+TX00016,C230,Farm Tools,Wheelbarrow,6500,10,Bank Transfer,True,2026-01-14
+TX00017,C024,Seeds,Maize Seeds,450,9,M-Pesa,True,2026-01-16
+TX00018,C175,Seeds,Vegetable Seeds,250,3,Bank Transfer,True,2026-01-26
+TX00019,C136,Animal Feed,Layers Mash,2600,10,Cash,True,2026-01-15
+TX00020,C069,Fertilizer,Urea Fertilizer,3200,9,Cash,True,2026-01-25
+TX00021,C001,Farm Tools,Panga,900,3, mpesa ,True,2026-01-15
+TX00022,C164,Fertilizer,Urea Fertilizer,3200,5,Card,True,2026-01-27
+TX00023,C200,Farm Tools,Jembe,1200,9,M-Pesa,True,2026-01-31
+TX00024,C093,Animal Feed,Dairy Meal,2800,2,Cash,True,2026-01-30
+TX00025,C021,Fertilizer,DAP Fertilizer,3500,10,M-Pesa,False,2026-01-31
+TX00026,C169,Fertilizer,Urea Fertilizer,3200,-2,Bank Transfer,True,2026-01-05
+TX00027,C247,Farm Tools,Wheelbarrow,6500,10,Card,True,2026-01-14
+TX00028,C231,Farm Tools,Panga,900,6,Bank Transfer,True,2026-01-15
+TX00029,C006,Seeds,Maize Seeds,450,2,Card,True,2026-01-11
+TX00030,C018,Fertilizer,DAP Fertilizer,3500,1,M-Pesa,True,2026-01-08
+TX00031,C172,Fertilizer,Urea Fertilizer,-500,4,Bank Transfer,True,2026-01-09
+TX00032,C122,Seeds,Vegetable Seeds,250,10,Card,False,2026-01-19
+TX00033,C169,Animal Feed,Dairy Meal,2800,2,Bank Transfer,True,2026-01-04
+TX00034,C187,Animal Feed,Layers Mash,2600,8,M-Pesa,True,2026-01-28
+TX00035,C221,Fertilizer,CAN Fertilizer,2800,6,M-Pesa,True,2026-01-26
+TX00036,C036,Seeds,,450,9,Bank Transfer,True,2026-01-15
+TX00037,C237,Farm Tools,Panga,900,4,M-Pesa,False,2026-01-28
+TX00038,C004,Fertilizer,DAP Fertilizer,3500,9,M-Pesa,True,2026-01-27
+TX00039,C055,Seeds,Bean Seeds,380,8,Bank Transfer,True,2026-01-16
+TX00040,C068,Seeds,Bean Seeds,380,1,Bank Transfer,True,2026-01-13
+TX00041,,Animal Feed,Broiler Starter,3000,9,Bank Transfer,True,2026-01-22
+TX00042,C015,Seeds,Bean Seeds,380,4,M-Pesa,True,2026-01-31
+TX00043,C129,Fertilizer,DAP Fertilizer,3500,10,Card,True,2026-01-16
+TX00044,C018,Fertilizer,DAP Fertilizer,3500,2,Card,False,2026-01-20
+TX00045,C153,Fertilizer,Urea Fertilizer,3200,4,M-Pesa,True,2026-01-19
+TX00046,C134,Animal Feed,Broiler Starter,3000,10,Cash,True,2026-01-19
+TX00047,C068,Seeds,Vegetable Seeds,250,6,Bank Transfer,True,2026-01-08
+TX00048,C193,Farm Tools,Panga,900,6,M-Pesa,True,2026-01-30
+TX00049,C019,Animal Feed,Broiler Starter,3000,10,Card,True,2026-01-04
+TX00050,C063,Seeds,Bean Seeds,380,2,Cash,True,2026-01-29
+TX00051,C078,Seeds,Bean Seeds,380,9,M-Pesa,True,2026-01-23
+TX00052,C228,Fertilizer,DAP Fertilizer,3500,5,M-Pesa,True,2026-01-04
+TX00053,C184,Farm Tools,Panga,900,10,Cash,True,2026-01-07
+TX00054,C232,Farm Tools,Wheelbarrow,6500,8,M-Pesa,True,2026-01-09
+TX00055,C086,Animal Feed,Layers Mash,2600,1,Card,True,2026-01-01
+TX00056,C181,Seeds,Vegetable Seeds,250,8,Bank Transfer,True,2026-01-18
+TX00057,C010,Fertilizer,DAP Fertilizer,3500,3,Cash,True,2026-01-18
+TX00058,C094,Animal Feed,Dairy Meal,2800,1,M-Pesa,True,2026-01-10
+TX00059,C027,Seeds,Vegetable Seeds,250,4,Cash,False,2026-01-22
+TX00060,C208,Seeds,Maize Seeds,450,3,Card,False,2026-01-26
+TX00061,C239,Fertilizer,DAP Fertilizer,3500,6,Bank Transfer,True,2026-01-26
+TX00062,C224,Farm Tools,Jembe,1200,2,M-Pesa,False,2026-01-13
+TX00063,C079,Seeds,Maize Seeds,450,8,Card,True,2026-01-12
+TX00064,C085,Fertilizer,Urea Fertilizer,3200,4,Cash,True,2026-01-13
+TX00065,C174,Farm Tools,Panga,900,9,Cash,True,2026-01-13
+TX00066,C247,Fertilizer,CAN Fertilizer,2800,3,Cash,True,2026-01-19
+TX00067,C187,Fertilizer,Urea Fertilizer,3200,7,Cash,False,2026-01-12
+TX00068,C066,Fertilizer,CAN Fertilizer,2800,10,M-Pesa,False,2026-01-07
+TX00069,C185,Fertilizer,Urea Fertilizer,3200,9,Card,True,2026-01-22
+TX00070,C081,Animal Feed,Dairy Meal,2800,6,M-Pesa,True,2026-01-20
+TX00071,C104,Farm Tools,Wheelbarrow,6500,7,Cash,True,2026-01-11
+TX00072,C192,Seeds,Bean Seeds,380,7,Card,True,2026-01-22
+TX00073,C074,Animal Feed,Broiler Starter,3000,1,Card,False,2026-01-10
+TX00074,C173,Farm Tools,Panga,900,8,Card,False,2026-01-15
+TX00075,C132,Seeds,Vegetable Seeds,250,2,Cash,True,2026-01-10
+TX00076,C207,Seeds,Vegetable Seeds,250,5,Card,True,2026-01-08
+TX00077,C157,Fertilizer,DAP Fertilizer,3500,4,M-Pesa,False,2026-01-16
+TX00078,C184,Animal Feed,Broiler Starter,3000,10,Bank Transfer,False,2026-01-07
+TX00079,C177,Animal Feed,Dairy Meal,2800,3,M-Pesa,True,2026-01-21
+TX00080,C246,Animal Feed,Dairy Meal,2800,3,Bank Transfer,True,2026-01-26
+TX00081,C206,Seeds,Maize Seeds,450,8,Bank Transfer,True,2026-01-05
+TX00082,C213,Animal Feed,Broiler Starter,3000,9,Bank Transfer,True,2026-01-14
+TX00083,C064,Animal Feed,Layers Mash,2600,5,Cash,False,2026-01-25
+TX00084,C183,Seeds,Bean Seeds,380,8,Cash,True,2026-01-03
+TX00085,C139,Farm Tools,Panga,900,6,M-Pesa,True,2026-01-29
+TX00086,C040,Seeds,Maize Seeds,450,7,Card,True,2026-01-23
+TX00087,C120,Animal Feed,Layers Mash,2600,6,Bank Transfer,True,2026-01-18
+TX00088,C198,Seeds,Bean Seeds,380,7,M-Pesa,False,2026-01-29
+TX00089,C193,Animal Feed,Dairy Meal,2800,6,Bank Transfer,False,2026-01-10
+TX00090,C112,Seeds,Bean Seeds,380,4,Bank Transfer,True,2026-01-09
+TX00091,C043,Animal Feed,Layers Mash,2600,7,Bank Transfer,True,2026-01-24
+TX00092,C170,Fertilizer,CAN Fertilizer,2800,10,M-Pesa,True,2026-01-19
+TX00093,C013,Animal Feed,Dairy Meal,2800,8,Cash,False,2026-01-06
+TX00094,C087,Farm Tools,Jembe,1200,8,Bank Transfer,True,2026-01-11
+TX00095,C005,Animal Feed,Layers Mash,2600,2,M-Pesa,True,2026-01-16
+TX00096,C246,Seeds,Vegetable Seeds,250,2,M-Pesa,True,2026-01-25
+TX00097,C040,Seeds,Maize Seeds,450,1,Card,True,2026-01-20
+TX00098,C243,Animal Feed,Broiler Starter,3000,2,Card,False,2026-01-19
+TX00099,C156,Farm Tools,Panga,900,3,M-Pesa,True,2026-01-20
+TX00100,C238,Farm Tools,Jembe,1200,10,Cash,False,2026-01-01
+TX00101,C152,Animal Feed,Broiler Starter,3000,4,Card,True,2026-01-03
+TX00102,C031,Farm Tools,Wheelbarrow,6500,10,M-Pesa,True,2026-01-26
+TX00103,C130,Animal Feed,Broiler Starter,3000,6,Cash,True,2026-01-03
+TX00104,C246,Animal Feed,Layers Mash,2600,2,Cash,False,2026-01-14
+TX00105,C134,Seeds,Bean Seeds,380,3,Cash,False,2026-01-24
+TX00106,C083,Animal Feed,Layers Mash,2600,10,Card,True,2026-01-09
+TX00107,C119,Farm Tools,Panga,900,4,Bank Transfer,True,2026-01-25
+TX00108,C125,Fertilizer,CAN Fertilizer,2800,6,Card,True,2026-01-06
+TX00109,C153,Farm Tools,Panga,900,5,Cash,True,2026-01-29
+TX00110,C105,Seeds,Maize Seeds,450,4,Bank Transfer,True,2026-01-24
+TX00111,C203,Animal Feed,Broiler Starter,3000,8,M-Pesa,True,2026-01-15
+TX00112,C063,Farm Tools,Jembe,1200,7,Cash,True,2026-01-23
+TX00113,C109,Animal Feed,Broiler Starter,3000,9,Cash,True,2026-01-12
+TX00114,C060,Animal Feed,Layers Mash,2600,5,M-Pesa,True,2026-01-09
+TX00115,C196,Farm Tools,Jembe,1200,9,Card,True,2026-01-31
+TX00116,C186,Seeds,Vegetable Seeds,250,8,Cash,True,2026-01-09
+TX00117,C046,Seeds,Bean Seeds,380,4,Cash,True,2026-01-12
+TX00118,C142,Seeds,Bean Seeds,380,1,Cash,True,2026-01-02
+TX00119,C073,Animal Feed,Dairy Meal,2800,1,Bank Transfer,False,2026-01-19
+TX00120,C014,Animal Feed,Layers Mash,2600,3,Cash,False,2026-01-31
+TX00121,C019,Fertilizer,DAP Fertilizer,3500,7,M-Pesa,True,2026-01-16
+TX00122,C064,Seeds,Vegetable Seeds,250,5,M-Pesa,False,2026-01-03
+TX00123,C233,Seeds,Vegetable Seeds,250,7,Bank Transfer,True,2026-01-15
+TX00124,C016,Animal Feed,Layers Mash,2600,10,M-Pesa,True,2026-01-20
+TX00125,C062,Seeds,Bean Seeds,380,2,Card,True,2026-01-06
+TX00126,C177,Seeds,Maize Seeds,450,7,Bank Transfer,True,2026-01-15
+TX00127,C073,Fertilizer,DAP Fertilizer,3500,5,Bank Transfer,True,2026-01-23
+TX00128,C206,Seeds,Bean Seeds,380,10,Card,False,2026-01-22
+TX00129,C039,Fertilizer,Urea Fertilizer,3200,4,Cash,True,2026-01-21
+TX00130,C079,Fertilizer,DAP Fertilizer,3500,3,Cash,False,2026-01-26
+TX00131,C104,Fertilizer,CAN Fertilizer,2800,5,Cash,False,2026-01-23
+TX00132,C228,Animal Feed,Dairy Meal,2800,10,Bank Transfer,True,2026-01-02
+TX00133,C247,Farm Tools,Jembe,1200,2,M-Pesa,True,2026-01-08
+TX00134,C167,Fertilizer,DAP Fertilizer,3500,8,Bank Transfer,True,2026-01-17
+TX00135,C209,Seeds,Vegetable Seeds,250,7,Bank Transfer,True,2026-01-21
+TX00136,C083,Animal Feed,Layers Mash,2600,7,M-Pesa,True,2026-01-11
+TX00137,C170,Farm Tools,Panga,900,8,Bank Transfer,True,2026-01-10
+TX00138,C083,Animal Feed,Dairy Meal,2800,6,M-Pesa,False,2026-01-09
+TX00139,C106,Fertilizer,Urea Fertilizer,3200,9,M-Pesa,True,2026-01-15
+TX00140,C114,Farm Tools,Wheelbarrow,6500,8,M-Pesa,True,2026-01-21
+TX00141,C074,Farm Tools,Wheelbarrow,6500,3,Bank Transfer,False,2026-01-30
+TX00142,C062,Fertilizer,DAP Fertilizer,3500,10,Card,True,2026-01-26
+TX00143,C058,Fertilizer,Urea Fertilizer,3200,7,M-Pesa,False,2026-01-03
+TX00144,C239,Fertilizer,Urea Fertilizer,3200,3,Cash,True,2026-01-16
+TX00145,C117,Animal Feed,Layers Mash,2600,8,Card,False,2026-01-08
+TX00146,C226,Seeds,Vegetable Seeds,250,9,Card,True,2026-01-24
+TX00147,C202,Farm Tools,Panga,900,6,Cash,True,2026-01-30
+TX00148,C151,Farm Tools,Wheelbarrow,6500,5,Bank Transfer,True,2026-01-27
+TX00149,C086,Animal Feed,Broiler Starter,3000,8,Bank Transfer,False,2026-01-12
+TX00150,C099,Farm Tools,Jembe,1200,4,Card,False,2026-01-19
+TX00151,C234,Fertilizer,CAN Fertilizer,2800,8,Bank Transfer,False,2026-01-23
+TX00152,C129,Seeds,Bean Seeds,380,1,Cash,True,2026-01-05
+TX00153,C117,Animal Feed,Dairy Meal,2800,9,M-Pesa,True,2026-01-30
+TX00154,C121,Animal Feed,Broiler Starter,3000,3,Cash,True,2026-01-03
+TX00155,C085,Animal Feed,Broiler Starter,3000,2,Bank Transfer,True,2026-01-28
+TX00156,C018,Animal Feed,Broiler Starter,3000,1,Card,True,2026-01-20
+TX00157,C026,Seeds,Vegetable Seeds,250,2,M-Pesa,False,2026-01-14
+TX00158,C008,Seeds,Vegetable Seeds,250,5,M-Pesa,True,2026-01-29
+TX00159,C111,Fertilizer,CAN Fertilizer,2800,6,Card,True,2026-01-12
+TX00160,C045,Animal Feed,Broiler Starter,3000,3,M-Pesa,False,2026-01-06
+TX00161,C060,Seeds,Bean Seeds,380,10,Bank Transfer,True,2026-01-05
+TX00162,C206,Animal Feed,Layers Mash,2600,1,Bank Transfer,True,2026-01-29
+TX00163,C089,Seeds,Maize Seeds,450,8,Cash,False,2026-01-31
+TX00164,C099,Farm Tools,Panga,900,5,Bank Transfer,True,2026-01-07
+TX00165,C148,Seeds,Bean Seeds,380,10,Cash,True,2026-01-12
+TX00166,C003,Fertilizer,Urea Fertilizer,3200,7,M-Pesa,False,2026-01-09
+TX00167,C091,Farm Tools,Jembe,1200,10,Card,True,2026-01-26
+TX00168,C025,Farm Tools,Wheelbarrow,6500,3,M-Pesa,True,2026-01-21
+TX00169,C188,Animal Feed,Dairy Meal,2800,10,Card,True,2026-01-12
+TX00170,C052,Farm Tools,Panga,900,7,Card,True,2026-01-06
+TX00171,C212,Farm Tools,Jembe,1200,5,Bank Transfer,True,2026-01-30
+TX00172,C020,Farm Tools,Jembe,1200,8,Card,True,2026-01-31
+TX00173,C203,Animal Feed,Broiler Starter,3000,6,Bank Transfer,True,2026-01-03
+TX00174,C095,Farm Tools,Wheelbarrow,6500,2,Cash,False,2026-01-15
+TX00175,C007,Farm Tools,Jembe,1200,4,Cash,True,2026-01-16
+TX00176,C180,Fertilizer,Urea Fertilizer,3200,8,Cash,False,2026-01-30
+TX00177,C010,Fertilizer,DAP Fertilizer,3500,1,Cash,False,2026-01-31
+TX00178,C138,Fertilizer,DAP Fertilizer,3500,4,Card,False,2026-01-29
+TX00179,C151,Animal Feed,Layers Mash,2600,9,Card,False,2026-01-14
+TX00180,C241,Fertilizer,CAN Fertilizer,2800,10,Cash,True,2026-01-14
+TX00181,C244,Farm Tools,Jembe,1200,8,Card,True,2026-01-15
+TX00182,C231,Fertilizer,Urea Fertilizer,3200,6,Cash,True,2026-01-18
+TX00183,C032,Animal Feed,Layers Mash,2600,4,Bank Transfer,True,2026-01-31
+TX00184,C013,Seeds,Vegetable Seeds,250,10,Cash,True,2026-01-01
+TX00185,C213,Seeds,Vegetable Seeds,250,4,Card,True,2026-01-03
+TX00186,C231,Seeds,Bean Seeds,380,3,M-Pesa,True,2026-01-26
+TX00187,C205,Seeds,Maize Seeds,450,9,Card,True,2026-01-09
+TX00188,C203,Fertilizer,DAP Fertilizer,3500,1,Card,True,2026-01-12
+TX00189,C033,Fertilizer,DAP Fertilizer,3500,5,Bank Transfer,True,2026-01-02
+TX00190,C093,Fertilizer,CAN Fertilizer,2800,8,M-Pesa,False,2026-01-25
+TX00191,C201,Seeds,Vegetable Seeds,250,1,Cash,False,2026-01-24
+TX00192,C103,Fertilizer,DAP Fertilizer,3500,8,Bank Transfer,True,2026-01-28
+TX00193,C231,Animal Feed,Broiler Starter,3000,8,M-Pesa,True,2026-01-03
+TX00194,C160,Seeds,Maize Seeds,450,3,Cash,False,2026-01-09
+TX00195,C111,Farm Tools,Panga,900,9,M-Pesa,True,2026-01-20
+TX00196,C059,Seeds,Bean Seeds,380,8,Bank Transfer,True,2026-01-29
+TX00197,C025,Animal Feed,Layers Mash,2600,7,Cash,False,2026-01-24
+TX00198,C245,Farm Tools,Wheelbarrow,6500,5,Card,False,2026-01-12
+TX00199,C111,Fertilizer,DAP Fertilizer,3500,2,M-Pesa,True,2026-01-03
+TX00200,C245,Seeds,Vegetable Seeds,250,1,Cash,True,2026-01-19
+TX00201,C235,Animal Feed,Layers Mash,2600,7,M-Pesa,True,2026-01-28
+TX00202,C130,Farm Tools,Panga,900,2,Card,True,2026-01-19
+TX00203,C217,Animal Feed,Dairy Meal,2800,2,Cash,True,2026-01-12
+TX00204,C110,Farm Tools,Wheelbarrow,6500,4,M-Pesa,True,2026-01-26
+TX00205,C196,Fertilizer,DAP Fertilizer,3500,5,Cash,True,2026-01-23
+TX00206,C037,Farm Tools,Jembe,1200,3,Bank Transfer,True,2026-01-28
+TX00207,C192,Seeds,Vegetable Seeds,250,1,Card,False,2026-01-03
+TX00208,C095,Animal Feed,Layers Mash,2600,6,Cash,True,2026-01-06
+TX00209,C194,Fertilizer,DAP Fertilizer,3500,3,M-Pesa,True,2026-01-06
+TX00210,C156,Farm Tools,Panga,900,7,Bank Transfer,False,2026-01-16
+TX00211,C089,Farm Tools,Jembe,1200,9,Bank Transfer,True,2026-01-04
+TX00212,C135,Farm Tools,Wheelbarrow,6500,10,Cash,True,2026-01-16
+TX00213,C002,Seeds,Bean Seeds,380,10,Card,True,2026-01-02
+TX00214,C084,Seeds,Maize Seeds,450,5,M-Pesa,True,2026-01-10
+TX00215,C034,Animal Feed,Broiler Starter,3000,7,Bank Transfer,True,2026-01-06
+TX00216,C190,Farm Tools,Jembe,1200,7,M-Pesa,False,2026-01-28
+TX00217,C081,Fertilizer,CAN Fertilizer,2800,2,Bank Transfer,False,2026-01-28
+TX00218,C006,Animal Feed,Layers Mash,2600,2,Cash,True,2026-01-13
+TX00219,C112,Animal Feed,Broiler Starter,3000,6,M-Pesa,True,2026-01-03
+TX00220,C021,Animal Feed,Broiler Starter,3000,7,Bank Transfer,True,2026-01-17
+TX00221,C044,Farm Tools,Jembe,1200,6,M-Pesa,True,2026-01-25
+TX00222,C246,Seeds,Bean Seeds,380,6,Card,True,2026-01-24
+TX00223,C045,Fertilizer,DAP Fertilizer,3500,5,Card,True,2026-01-07
+TX00224,C194,Seeds,Vegetable Seeds,250,8,Bank Transfer,True,2026-01-15
+TX00225,C121,Farm Tools,Jembe,1200,8,Bank Transfer,True,2026-01-03
+TX00226,C130,Farm Tools,Wheelbarrow,6500,1,M-Pesa,True,2026-01-12
+TX00227,C095,Animal Feed,Layers Mash,2600,1,Cash,True,2026-01-02
+TX00228,C099,Fertilizer,Urea Fertilizer,3200,10,Bank Transfer,True,2026-01-17
+TX00229,C155,Animal Feed,Broiler Starter,3000,4,Bank Transfer,True,2026-01-11
+TX00230,C231,Fertilizer,CAN Fertilizer,2800,2,Cash,True,2026-01-26
+TX00231,C113,Seeds,Maize Seeds,450,4,Bank Transfer,True,2026-01-23
+TX00232,C105,Farm Tools,Panga,900,5,Cash,True,2026-01-13
+TX00233,C143,Farm Tools,Jembe,1200,6,Bank Transfer,True,2026-01-04
+TX00234,C039,Farm Tools,Wheelbarrow,6500,10,Cash,True,2026-01-28
+TX00235,C168,Seeds,Bean Seeds,380,5,Bank Transfer,True,2026-01-31
+TX00236,C165,Fertilizer,CAN Fertilizer,2800,9,Cash,True,2026-01-13
+TX00237,C093,Fertilizer,Urea Fertilizer,3200,7,M-Pesa,True,2026-01-17
+TX00238,C243,Farm Tools,Jembe,1200,4,Bank Transfer,True,2026-01-11
+TX00239,C076,Seeds,Maize Seeds,450,3,M-Pesa,True,2026-01-03
+TX00240,C097,Farm Tools,Wheelbarrow,6500,3,Card,True,2026-01-20
+TX00241,C232,Seeds,Vegetable Seeds,250,10,Card,False,2026-01-26
+TX00242,C185,Fertilizer,CAN Fertilizer,2800,6,Card,False,2026-01-22
+TX00243,C137,Farm Tools,Wheelbarrow,6500,8,Card,True,2026-01-08
+TX00244,C243,Animal Feed,Dairy Meal,2800,6,Bank Transfer,False,2026-01-22
+TX00245,C108,Farm Tools,Panga,900,9,Card,True,2026-01-17
+TX00246,C124,Seeds,Bean Seeds,380,1,Cash,True,2026-01-21
+TX00247,C042,Fertilizer,CAN Fertilizer,2800,2,Cash,False,2026-01-25
+TX00248,C234,Seeds,Bean Seeds,380,2,Card,False,2026-01-31
+TX00249,C102,Farm Tools,Jembe,1200,7,Cash,True,2026-01-02
+TX00250,C008,Animal Feed,Dairy Meal,2800,6,Cash,True,2026-01-08
+TX00251,C074,Farm Tools,Jembe,1200,3,Bank Transfer,True,2026-01-02
+TX00252,C232,Animal Feed,Layers Mash,2600,10,M-Pesa,True,2026-01-01
+TX00253,C241,Farm Tools,Jembe,1200,3,Bank Transfer,True,2026-01-18
+TX00254,C013,Farm Tools,Jembe,1200,5,Card,False,2026-01-04
+TX00255,C232,Animal Feed,Dairy Meal,2800,2,Bank Transfer,True,2026-01-27
+TX00256,C110,Seeds,Vegetable Seeds,250,3,M-Pesa,True,2026-01-10
+TX00257,C171,Seeds,Vegetable Seeds,250,7,M-Pesa,True,2026-01-06
+TX00258,C202,Fertilizer,Urea Fertilizer,3200,9,M-Pesa,False,2026-01-17
+TX00259,C065,Animal Feed,Dairy Meal,2800,7,M-Pesa,True,2026-01-12
+TX00260,C169,Fertilizer,CAN Fertilizer,2800,4,M-Pesa,True,2026-01-24
+TX00261,C087,Seeds,Maize Seeds,450,6,Card,False,2026-01-18
+TX00262,C035,Animal Feed,Broiler Starter,3000,3,M-Pesa,False,2026-01-26
+TX00263,C203,Fertilizer,CAN Fertilizer,2800,4,Card,True,2026-01-02
+TX00264,C209,Farm Tools,Panga,900,9,Bank Transfer,True,2026-01-13
+TX00265,C092,Fertilizer,Urea Fertilizer,3200,4,M-Pesa,True,2026-01-10
+TX00266,C228,Farm Tools,Jembe,1200,6,Bank Transfer,False,2026-01-14
+TX00267,C178,Animal Feed,Layers Mash,2600,3,Bank Transfer,True,2026-01-16
+TX00268,C111,Farm Tools,Jembe,1200,7,Card,True,2026-01-03
+TX00269,C170,Farm Tools,Jembe,1200,2,Cash,True,2026-01-11
+TX00270,C177,Animal Feed,Broiler Starter,3000,7,Bank Transfer,True,2026-01-06
+TX00271,C112,Animal Feed,Dairy Meal,2800,6,Cash,True,2026-01-20
+TX00272,C132,Fertilizer,Urea Fertilizer,3200,7,Card,True,2026-01-12
+TX00273,C033,Seeds,Vegetable Seeds,250,8,M-Pesa,True,2026-01-02
+TX00274,C146,Farm Tools,Panga,900,7,M-Pesa,True,2026-01-31
+TX00275,C196,Animal Feed,Layers Mash,2600,6,M-Pesa,True,2026-01-15
+TX00276,C072,Farm Tools,Panga,900,6,Card,True,2026-01-21
+TX00277,C133,Fertilizer,Urea Fertilizer,3200,3,Bank Transfer,True,2026-01-16
+TX00278,C157,Farm Tools,Panga,900,8,Cash,False,2026-01-07
+TX00279,C019,Seeds,Maize Seeds,450,3,Bank Transfer,True,2026-01-28
+TX00280,C089,Animal Feed,Dairy Meal,2800,6,M-Pesa,True,2026-01-22
+TX00281,C093,Farm Tools,Jembe,1200,3,Card,True,2026-01-26
+TX00282,C127,Seeds,Maize Seeds,450,4,M-Pesa,True,2026-01-26
+TX00283,C157,Farm Tools,Panga,900,9,M-Pesa,True,2026-01-05
+TX00284,C106,Farm Tools,Panga,900,8,Bank Transfer,True,2026-01-17
+TX00285,C120,Seeds,Bean Seeds,380,2,Cash,True,2026-01-15
+TX00286,C234,Seeds,Maize Seeds,450,7,M-Pesa,True,2026-01-17
+TX00287,C083,Seeds,Bean Seeds,380,3,Card,True,2026-01-06
+TX00288,C163,Farm Tools,Jembe,1200,5,Cash,True,2026-01-07
+TX00289,C129,Farm Tools,Wheelbarrow,6500,9,Card,True,2026-01-03
+TX00290,C231,Seeds,Vegetable Seeds,250,10,Cash,True,2026-01-24
+TX00291,C165,Fertilizer,DAP Fertilizer,3500,1,Cash,True,2026-01-31
+TX00292,C228,Animal Feed,Broiler Starter,3000,1,Cash,True,2026-01-16
+TX00293,C117,Animal Feed,Dairy Meal,2800,7,M-Pesa,True,2026-01-10
+TX00294,C119,Seeds,Bean Seeds,380,7,Card,True,2026-01-16
+TX00295,C221,Seeds,Bean Seeds,380,6,Cash,False,2026-01-24
+TX00296,C028,Seeds,Bean Seeds,380,9,Cash,True,2026-01-18
+TX00297,C064,Animal Feed,Dairy Meal,2800,5,Card,True,2026-01-15
+TX00298,C158,Fertilizer,CAN Fertilizer,2800,7,Bank Transfer,True,2026-01-28
+TX00299,C081,Seeds,Bean Seeds,380,10,Card,True,2026-01-24
+TX00300,C226,Animal Feed,Broiler Starter,3000,8,Cash,False,2026-01-16
+TX00301,C118,Fertilizer,DAP Fertilizer,3500,7,Card,True,2026-01-17
+TX00302,C127,Farm Tools,Jembe,1200,1,Bank Transfer,True,2026-01-10
+TX00303,C226,Fertilizer,DAP Fertilizer,3500,7,Cash,True,2026-01-05
+TX00304,C014,Animal Feed,Layers Mash,2600,1,Card,True,2026-01-13
+TX00305,C116,Farm Tools,Jembe,1200,7,Cash,True,2026-01-17
+TX00306,C204,Seeds,Maize Seeds,450,7,Cash,True,2026-01-12
+TX00307,C103,Seeds,Maize Seeds,450,10,M-Pesa,True,2026-01-17
+TX00308,C122,Fertilizer,DAP Fertilizer,3500,6,Bank Transfer,True,2026-01-26
+TX00309,C042,Seeds,Bean Seeds,380,10,Bank Transfer,True,2026-01-11
+TX00310,C126,Farm Tools,Wheelbarrow,6500,9,Cash,False,2026-01-18
+TX00311,C029,Fertilizer,CAN Fertilizer,2800,6,Bank Transfer,True,2026-01-22
+TX00312,C248,Fertilizer,Urea Fertilizer,3200,8,Card,True,2026-01-09
+TX00313,C185,Animal Feed,Dairy Meal,2800,9,Bank Transfer,True,2026-01-21
+TX00314,C180,Seeds,Maize Seeds,450,10,M-Pesa,True,2026-01-31
+TX00315,C039,Fertilizer,CAN Fertilizer,2800,6,Bank Transfer,True,2026-01-14
+TX00316,C121,Animal Feed,Broiler Starter,3000,10,M-Pesa,True,2026-01-30
+TX00317,C123,Seeds,Vegetable Seeds,250,6,Bank Transfer,True,2026-01-22
+TX00318,C140,Seeds,Bean Seeds,380,9,Cash,True,2026-01-11
+TX00319,C143,Animal Feed,Dairy Meal,2800,4,Cash,True,2026-01-09
+TX00320,C181,Farm Tools,Panga,900,4,Bank Transfer,True,2026-01-23
+TX00321,C240,Animal Feed,Layers Mash,2600,9,Cash,True,2026-01-30
+TX00322,C230,Fertilizer,Urea Fertilizer,3200,9,Bank Transfer,True,2026-01-13
+TX00323,C245,Seeds,Bean Seeds,380,1,M-Pesa,True,2026-01-10
+TX00324,C123,Animal Feed,Broiler Starter,3000,5,Card,True,2026-01-24
+TX00325,C028,Farm Tools,Wheelbarrow,6500,5,Card,True,2026-01-05
+TX00326,C164,Fertilizer,Urea Fertilizer,3200,9,Card,True,2026-01-08
+TX00327,C121,Fertilizer,CAN Fertilizer,2800,6,M-Pesa,True,2026-01-23
+TX00328,C168,Fertilizer,Urea Fertilizer,3200,3,Bank Transfer,False,2026-01-14
+TX00329,C166,Seeds,Bean Seeds,380,6,M-Pesa,True,2026-01-10
+TX00330,C236,Seeds,Vegetable Seeds,250,1,Card,False,2026-01-30
+TX00331,C127,Seeds,Maize Seeds,450,7,Card,True,2026-01-26
+TX00332,C155,Fertilizer,DAP Fertilizer,3500,5,M-Pesa,True,2026-01-19
+TX00333,C127,Farm Tools,Panga,900,9,Card,False,2026-01-17
+TX00334,C042,Farm Tools,Jembe,1200,2,Bank Transfer,True,2026-01-11
+TX00335,C076,Seeds,Maize Seeds,450,6,Card,True,2026-01-26
+TX00336,C023,Animal Feed,Layers Mash,2600,9,Bank Transfer,True,2026-01-11
+TX00337,C240,Seeds,Maize Seeds,450,8,Card,True,2026-01-11
+TX00338,C193,Farm Tools,Panga,900,4,Cash,True,2026-01-15
+TX00339,C067,Farm Tools,Wheelbarrow,6500,10,Cash,True,2026-01-01
+TX00340,C079,Fertilizer,Urea Fertilizer,3200,2,Card,False,2026-01-15
+TX00341,C235,Farm Tools,Wheelbarrow,6500,2,Cash,True,2026-01-21
+TX00342,C040,Seeds,Maize Seeds,450,3,Bank Transfer,True,2026-01-16
+TX00343,C121,Animal Feed,Broiler Starter,3000,9,Card,True,2026-01-30
+TX00344,C181,Fertilizer,Urea Fertilizer,3200,8,Cash,True,2026-01-17
+TX00345,C130,Fertilizer,DAP Fertilizer,3500,9,Card,True,2026-01-29
+TX00346,C030,Seeds,Bean Seeds,380,9,Card,False,2026-01-15
+TX00347,C015,Fertilizer,Urea Fertilizer,3200,8,Bank Transfer,True,2026-01-26
+TX00348,C144,Animal Feed,Layers Mash,2600,10,Bank Transfer,True,2026-01-02
+TX00349,C001,Fertilizer,CAN Fertilizer,2800,5,Card,True,2026-01-27
+TX00350,C017,Fertilizer,CAN Fertilizer,2800,6,M-Pesa,True,2026-01-23
+TX00351,C047,Animal Feed,Dairy Meal,2800,5,Card,False,2026-01-14
+TX00352,C235,Farm Tools,Panga,900,8,Bank Transfer,False,2026-01-28
+TX00353,C168,Fertilizer,Urea Fertilizer,3200,9,Cash,True,2026-01-05
+TX00354,C033,Seeds,Vegetable Seeds,250,7,Card,True,2026-01-17
+TX00355,C185,Fertilizer,CAN Fertilizer,2800,8,Bank Transfer,False,2026-01-22
+TX00356,C040,Seeds,Maize Seeds,450,8,Cash,True,2026-01-12
+TX00357,C197,Fertilizer,DAP Fertilizer,3500,7,M-Pesa,True,2026-01-20
+TX00358,C009,Seeds,Maize Seeds,450,2,Bank Transfer,True,2026-01-20
+TX00359,C113,Seeds,Vegetable Seeds,250,1,Card,True,2026-01-13
+TX00360,C060,Fertilizer,DAP Fertilizer,3500,9,Cash,True,2026-01-10
+TX00361,C134,Seeds,Bean Seeds,380,3,Card,False,2026-01-22
+TX00362,C243,Farm Tools,Panga,900,1,Card,False,2026-01-18
+TX00363,C165,Animal Feed,Dairy Meal,2800,6,Bank Transfer,True,2026-01-31
+TX00364,C097,Animal Feed,Layers Mash,2600,3,Card,False,2026-01-10
+TX00365,C182,Seeds,Maize Seeds,450,5,Card,False,2026-01-28
+TX00366,C107,Fertilizer,Urea Fertilizer,3200,7,Card,False,2026-01-31
+TX00367,C166,Seeds,Bean Seeds,380,4,M-Pesa,False,2026-01-11
+TX00368,C213,Farm Tools,Jembe,1200,9,Card,True,2026-01-24
+TX00369,C011,Farm Tools,Panga,900,10,M-Pesa,True,2026-01-20
+TX00370,C233,Seeds,Bean Seeds,380,4,Cash,True,2026-01-28
+TX00371,C190,Fertilizer,DAP Fertilizer,3500,4,M-Pesa,False,2026-01-31
+TX00372,C053,Seeds,Vegetable Seeds,250,10,Bank Transfer,True,2026-01-23
+TX00373,C137,Farm Tools,Panga,900,7,Cash,True,2026-01-15
+TX00374,C128,Farm Tools,Panga,900,9,Bank Transfer,True,2026-01-29
+TX00375,C081,Animal Feed,Layers Mash,2600,4,Bank Transfer,True,2026-01-12
+TX00376,C067,Seeds,Vegetable Seeds,250,3,Bank Transfer,True,2026-01-01
+TX00377,C098,Seeds,Maize Seeds,450,6,Card,False,2026-01-08
+TX00378,C186,Farm Tools,Panga,900,8,Bank Transfer,False,2026-01-31
+TX00379,C036,Seeds,Vegetable Seeds,250,6,Bank Transfer,True,2026-01-06
+TX00380,C217,Fertilizer,Urea Fertilizer,3200,1,M-Pesa,True,2026-01-27
+TX00381,C162,Fertilizer,CAN Fertilizer,2800,3,Card,True,2026-01-27
+TX00382,C117,Seeds,Maize Seeds,450,4,Cash,True,2026-01-17
+TX00383,C002,Animal Feed,Broiler Starter,3000,8,Bank Transfer,True,2026-01-01
+TX00384,C074,Fertilizer,Urea Fertilizer,3200,5,M-Pesa,False,2026-01-18
+TX00385,C039,Seeds,Maize Seeds,450,2,Card,True,2026-01-17
+TX00386,C102,Farm Tools,Panga,900,5,M-Pesa,True,2026-01-26
+TX00387,C179,Animal Feed,Layers Mash,2600,10,Card,True,2026-01-08
+TX00388,C104,Fertilizer,Urea Fertilizer,3200,1,Bank Transfer,False,2026-01-03
+TX00389,C044,Animal Feed,Dairy Meal,2800,1,M-Pesa,False,2026-01-23
+TX00390,C220,Animal Feed,Broiler Starter,3000,6,M-Pesa,True,2026-01-19
+TX00391,C070,Seeds,Maize Seeds,450,10,M-Pesa,True,2026-01-16
+TX00392,C009,Farm Tools,Wheelbarrow,6500,10,Card,True,2026-01-22
+TX00393,C193,Fertilizer,DAP Fertilizer,3500,10,Bank Transfer,True,2026-01-05
+TX00394,C146,Farm Tools,Jembe,1200,10,Bank Transfer,True,2026-01-08
+TX00395,C177,Animal Feed,Broiler Starter,3000,3,M-Pesa,True,2026-01-26
+TX00396,C215,Fertilizer,DAP Fertilizer,3500,7,M-Pesa,True,2026-01-08
+TX00397,C070,Animal Feed,Layers Mash,2600,1,Bank Transfer,False,2026-01-21
+TX00398,C097,Seeds,Bean Seeds,380,9,Bank Transfer,True,2026-01-31
+TX00399,C205,Animal Feed,Dairy Meal,2800,10,Card,True,2026-01-10
+TX00400,C183,Fertilizer,CAN Fertilizer,2800,3,Card,False,2026-01-13
+TX00051,C078,Seeds,Bean Seeds,380,9,M-Pesa,True,2026-01-23
